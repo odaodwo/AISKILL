@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# Temporary playlist imports
+tracks.json
+*.tmp
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
